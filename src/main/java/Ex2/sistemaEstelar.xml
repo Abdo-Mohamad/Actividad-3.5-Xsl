@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="sistemaEstelar.xsl" type="text/xsl"?>
+<flota>
+    <sistema cod="SistAA23">
+        <planeta>
+            <nomPlaneta>Endor</nomPlaneta>
+            <luna codLuna="luna1">Luna santuario</luna>
+            <luna codLuna="luna2">Resistence</luna>
+            <habitantes>500000</habitantes>
+        </planeta>
+        <planeta>
+            <nomPlaneta>Hakusi</nomPlaneta>
+            <luna codLuna="luna3">Vismark</luna>
+            <luna codLuna="luna4">Turbulence</luna>
+            <habitantes>40000</habitantes>
+        </planeta>
+        <nave cod="nav12">
+            <nomNave>Nefertiti</nomNave>
+            <arma>
+                <tipo nivel="5">Cañon laser</tipo>
+                <cantidad>6</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="3">Cañon laser</tipo>
+                <cantidad>10</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="5">Torpedor</tipo>
+                <cantidad>3</cantidad>
+            </arma>
+            <tripulacion>
+                <capitan>
+                    <nomCapitan>John</nomCapitan>
+                    <apellidosCapitan>Smith</apellidosCapitan>
+                </capitan>
+                <primerOficial>
+                    <nombrePrimerOficial>Spencer</nombrePrimerOficial>
+                    <apellidosPrimerOficial>Tracy</apellidosPrimerOficial>
+                </primerOficial>
+            </tripulacion>
+        </nave>
+        <nave cod="nav12">
+            <nomNave>Anck-Su-Namun</nomNave>
+            <arma>
+                <tipo nivel="5">Cañon laser</tipo>
+                <cantidad>6</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="3">Cañon laser</tipo>
+                <cantidad>10</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="5">Torpedor</tipo>
+                <cantidad>3</cantidad>
+            </arma>
+            <tripulacion>
+                <capitan>
+                    <nomCapitan>John</nomCapitan>
+                    <apellidosCapitan>Carpenter</apellidosCapitan>
+                </capitan>
+                <primerOficial>
+                    <nombrePrimerOficial>Spencer</nombrePrimerOficial>
+                    <apellidosPrimerOficial>Buck</apellidosPrimerOficial>
+                </primerOficial>
+            </tripulacion>
+        </nave>
+    </sistema>
+    <sistema cod="SistAA24">
+        <planeta>
+            <nomPlaneta>Mercuri 3</nomPlaneta>
+            <luna codLuna="luna5">Dumber</luna>
+            <luna codLuna="luna6">Grifindor</luna>
+            <habitantes>150000</habitantes>
+        </planeta>
+        <planeta>
+            <nomPlaneta>Distanace</nomPlaneta>
+            <luna codLuna="luna7">Vismark</luna>
+            <habitantes>40000</habitantes>
+        </planeta>
+        <nave cod="nav15">
+            <nomNave>Tornado</nomNave>
+            <arma>
+                <tipo nivel="5">Cañon laser</tipo>
+                <cantidad>6</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="3">Cañon laser</tipo>
+                <cantidad>10</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="5">Torpedor</tipo>
+                <cantidad>3</cantidad>
+            </arma>
+            <tripulacion>
+                <capitan>
+                    <nomCapitan>Beer</nomCapitan>
+                    <apellidosCapitan>Smith</apellidosCapitan>
+                </capitan>
+                <primerOficial>
+                    <nombrePrimerOficial>Buck</nombrePrimerOficial>
+                    <apellidosPrimerOficial>Tracy</apellidosPrimerOficial>
+                </primerOficial>
+            </tripulacion>
+        </nave>
+        <nave cod="nav12">
+            <nomNave>sharknado</nomNave>
+            <arma>
+                <tipo nivel="5">Cañon laser</tipo>
+                <cantidad>6</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="3">Cañon laser</tipo>
+                <cantidad>10</cantidad>
+            </arma>
+            <arma>
+                <tipo nivel="5">Torpedor</tipo>
+                <cantidad>3</cantidad>
+            </arma>
+            <tripulacion>
+                <capitan>
+                    <nomCapitan>Cabe</nomCapitan>
+                    <apellidosCapitan>dim</apellidosCapitan>
+                </capitan>
+                <primerOficial>
+                    <nombrePrimerOficial>Spencer</nombrePrimerOficial>
+                    <apellidosPrimerOficial>Buck</apellidosPrimerOficial>
+                </primerOficial>
+            </tripulacion>
+        </nave>
+    </sistema>
+</flota>
